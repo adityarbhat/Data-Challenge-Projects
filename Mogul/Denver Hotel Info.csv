@@ -1,0 +1,381 @@
+Hotel Name,Brand Name,City,State,Country,Class Type,Location Type,Price Type,Restaurant (Y/N),Conference (Y/N),Spa (Y/N),Total Rooms,Floor Count,Rate
+11th Avenue Hotel & Hostel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,100,3,$40
+A & D Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,12,1,$33
+AC Hotels by Marriott Denver Downtown,AC Hotels by Marriott,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,223,19,$226
+Affordable Inn Wheat Ridge,Independent,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,N,N,N,100,2,$40
+All Inn Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,54,4,$27
+aloft Hotel Broomfield Denver,aloft Hotel,Broomfield,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,139,4,$146
+aloft Hotel Denver Airport At Gateway Park,aloft Hotel,Aurora,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,144,5,$66
+aloft Hotel Denver North Westminster,aloft Hotel,Westminster,CO ,United States,Upscale Class,Suburban,Budget,Y,N,N,120,5,$142
+American Motel,Independent,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,Y,N,N,138,5,$43
+Americas Best Value Inn Denver,Americas Best Value Inn,Denver,CO ,United States,Economy Class,Airport,Budget,N,N,N,112,2,$37
+AmericInn Hotel & Suites Denver Airport,AmericInn,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,87,3,$156
+Ascend Collection The Golden Hotel,Ascend Collection,Golden,CO ,United States,Upscale Class,Suburban,Luxury,Y,N,N,62,4,$212
+Autograph Collection The Brown Palace Hotel & Spa,Autograph Collection,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,Y,241,9,$426
+Autograph Collection The Jacquard,Autograph Collection,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,201,8,$589
+Avid Hotel Denver Airport Area,Avid,Denver,CO ,United States,Midscale Class,Airport,Budget,N,N,N,97,4,$56
+Baymont Inn & Suites Denver International Airport,Baymont,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,128,4,$139
+Baymont Inn & Suites Denver West Federal Center,Baymont,Golden,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,62,2,$46
+Baymont Thornton,Baymont,Thornton,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,78,4,$86
+Belcaro Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,41,2,$41
+Best Western Brighton Inn,Best Western,Brighton,CO ,United States,Midscale Class,Suburban,Midprice,N,N,N,58,3,$142
+Best Western Denver Southwest,Best Western,Lakewood,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,112,2,$110
+Best Western Plus Castle Rock,Best Western Plus,Castle Rock,CO ,United States,Upper Midscale Class,Interstate,Midprice,N,N,N,69,4,$119
+Best Western Plus Denver Tech Center,Best Western Plus,Englewood,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,149,5,$90
+Best Western Plus Executive Residency Denver  - Stapleton Hotel,Best Western Plus,Denver,CO ,United States,Upper Midscale Class,Urban,Budget,N,N,N,194,5,$233
+Best Western Plus Gateway Inn & Suites,Best Western Plus,Aurora,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,82,4,$112
+Best Western Plus Inn & Suites Denver International Airport,Best Western Plus,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,101,3,$122
+Best Western Premier Denver East,Best Western Premier,Denver,CO ,United States,Upscale Class,Airport,Budget,Y,N,N,202,2,$109
+Biltmore Motel,Independent,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,17,1,$23
+Blue Sky Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,23,2,$47
+Branding Iron Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,33,2,$50
+Broadway Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,28,1,$35
+Brook Forest Inn & Spa,Independent,Evergreen,CO ,United States,Upper Midscale Class,Suburban,Economy,Y,N,Y,16,3,$150
+Budget Host Longhorn Motel,Budget Host,Byers,CO ,United States,Economy Class,Small Metro/Town,Budget,N,N,N,26,2,$41
+Cambria Hotels Denver International Airport,Cambria Hotels,Aurora,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,151,6,$70
+Cameron Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,35,2,$64
+Candlewood Suites Denver North Thornton,Candlewood Suites,Thornton,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,83,4,$53
+Candlewood Suites Denver Northeast Brighton,Candlewood Suites,Brighton,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,72,4,$46
+Castle Rock Motel,Independent,Castle Rock,CO ,United States,Economy Class,Suburban,Budget,N,N,N,25,2,$35
+Chalet Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,18,1,$37
+City Inn,Independent,Westminster,CO ,United States,Economy Class,Suburban,Budget,N,N,N,17,3,$39
+Clarion Hotel Denver Central,Clarion,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,Y,N,N,213,9,$159
+Clearview Motel,Independent,Commerce City,CO ,United States,Economy Class,Suburban,Budget,N,N,N,28,1,$22
+Colonial Manor Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,43,2,$63
+Comfort Inn & Suites Northeast Brighton,Comfort Inn,Brighton,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,88,3,$162
+Comfort Inn & Suites Stapleton Denver,Comfort Inn,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,N,N,N,138,4,$106
+Comfort Inn Central Denver,Comfort Inn,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,N,N,N,163,9,$166
+Comfort Inn Denver East ,Comfort Inn,Denver,CO ,United States,Upper Midscale Class,Airport,Economy,N,N,N,137,4,$79
+Comfort Inn Denver Southeast Area,Comfort Inn,Aurora,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,62,3,$70
+Comfort Inn Denver West,Comfort Inn,Wheat Ridge,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,64,3,$122
+Comfort Suites Castle Rock,Comfort Suites,Castle Rock,CO ,United States,Upper Midscale Class,Interstate,Economy,N,N,N,66,3,$50
+Comfort Suites Denver Bear Anschutz Medical Campus,Comfort Suites,Aurora,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,90,4,$56
+Comfort Suites Denver International Airport,Comfort Suites,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,122,4,$60
+Comfort Suites Denver Tech Center,Comfort Suites,Englewood,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,78,3,$51
+Comfort Suites Golden West On Evergreen Parkway ,Comfort Suites,Golden,CO ,United States,Upper Midscale Class,Suburban,Upscale,N,N,N,85,3,$51
+Comfort Suites Highlands Ranch Denver Tech Center Area,Comfort Suites,Highlands Ranch,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,73,4,$50
+Comfort Suites Lakewood Denver,Comfort Suites,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,71,3,$43
+Comfort Suites Near Denver Downtown,Comfort Suites,Denver,CO ,United States,Upper Midscale Class,Urban,Midprice,N,N,N,80,4,$56
+Country Manor Motel,Independent,Watkins,CO ,United States,Economy Class,Suburban,Budget,N,N,N,25,1,$50
+Courtyard Denver Airport,Courtyard,Denver,CO ,United States,Upscale Class,Airport,Upscale,Y,N,N,202,8,$139
+Courtyard Denver Airport At Gateway Park,Courtyard,Denver,CO ,United States,Upscale Class,Airport,Midprice,N,N,N,192,6,$149
+Courtyard Denver Central Park,Courtyard,Denver,CO ,United States,Upscale Class,Urban,Midprice,Y,N,N,146,3,$207
+Courtyard Denver Cherry Creek,Courtyard,Denver,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,240,11,$212
+Courtyard Denver Downtown,Courtyard,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,177,6,$176
+Courtyard Denver Golden/Red Rocks,Courtyard,Golden,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,110,4,$96
+Courtyard Denver North Westminster,Courtyard,Westminster,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,97,4,$172
+Courtyard Denver Southwest Lakewood,Courtyard,Lakewood,CO ,United States,Upscale Class,Suburban,Economy,Y,N,N,90,3,$102
+Courtyard Denver Southwest/Littleton,Courtyard,Highlands Ranch,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,125,4,$199
+Courtyard Denver Tech Center,Courtyard,Greenwood Village,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,155,3,$178
+Crowne Plaza Denver Airport Convention Center,Crowne Plaza,Denver,CO ,United States,Upscale Class,Airport,Economy,Y,N,N,255,6,$153
+Curio Collection by Hilton The Art Hotel Denver,Curio Collection by Hilton,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,165,9,$305
+Days Inn & Suites Castle Rock,Days Inn,Castle Rock,CO ,United States,Economy Class,Interstate,Budget,N,N,N,60,3,$117
+Days Inn & Suites Denver International Airport,Days Inn,Denver,CO ,United States,Economy Class,Airport,Economy,N,N,N,105,3,$139
+Days Inn Denver Downtown,Days Inn,Denver,CO ,United States,Economy Class,Urban,Economy,N,N,N,56,2,$96
+Days Inn Englewood Denver Tech Cente,Days Inn,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,68,3,$73
+Days Inn Golden Denver West,Days Inn,Golden,CO ,United States,Economy Class,Suburban,Economy,N,N,N,155,3,$102
+Delta Hotel Denver Northglenn,Delta Hotel,Northglenn,CO ,United States,Upscale Class,Suburban,Budget,Y,N,N,238,6,$142
+Deluxe Motel & RV Park,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,20,1,$27
+Denver West Inn,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,Y,N,N,122,2,$53
+DoubleTree by Hilton Denver Cherry Creek,DoubleTree by Hilton,Denver,CO ,United States,Upscale Class,Suburban,Budget,Y,N,N,270,9,$112
+DoubleTree by Hilton Denver International Airport,DoubleTree by Hilton,Denver,CO ,United States,Upscale Class,Airport,Budget,Y,N,N,163,6,$121
+DoubleTree by Hilton Hotel Denver,DoubleTree by Hilton,Denver,CO ,United States,Upscale Class,Urban,Midprice,Y,N,N,561,9,$263
+DoubleTree by Hilton Hotel Denver - Central Park,DoubleTree by Hilton,Denver,CO ,United States,Upscale Class,Urban,Budget,Y,N,N,300,5,$192
+DoubleTree by Hilton Hotel Denver Aurora ,DoubleTree by Hilton,Aurora,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,250,6,$146
+DoubleTree by Hilton Hotel Denver Tech,DoubleTree by Hilton,Greenwood Village,CO ,United States,Upscale Class,Suburban,Upscale,Y,N,N,305,6,$169
+DoubleTree by Hilton Hotel Denver Thornton,DoubleTree by Hilton,Thornton,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,137,5,$159
+DoubleTree by Hilton Hotel Denver Westminster,DoubleTree by Hilton,Westminster,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,186,7,$189
+DoubleTree by Hilton Hotel The Curtis,DoubleTree by Hilton,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,336,16,$290
+Drury Inn & Suites Denver Stapleton,Drury Inn & Suites,Denver,CO ,United States,Upper Midscale Class,Urban,Midprice,N,N,N,180,7,$137
+Drury Inn & Suites Denver Tech Center,Drury Inn & Suites,Centennial,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,160,6,$133
+Drury Inn & Suites Denver Westminster,Drury Inn & Suites,Westminster,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,180,7,$127
+Econo Lodge Denver International Airport,Econo Lodge,Aurora,CO ,United States,Economy Class,Airport,Economy,N,N,N,119,3,$73
+element Denver Downtown East,element,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,157,7,$236
+element Denver International Airport,element,Denver,CO ,United States,Upscale Class,Airport,Budget,N,N,N,123,4,$119
+element Denver Park Meadows,element,Lone Tree,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,123,4,$179
+Embassy Suites by Hilton Denver Central Park,Embassy Suites by Hilton,Denver,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,210,7,$57
+Embassy Suites by Hilton Denver Downtown Convention Center,Embassy Suites by Hilton,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,403,17,$106
+Embassy Suites by Hilton Denver International Airport,Embassy Suites by Hilton,Denver,CO ,United States,Upper Upscale Class,Airport,Luxury,Y,N,N,174,7,$50
+Embassy Suites by Hilton Denver Tech Center,Embassy Suites by Hilton,Centennial,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,236,9,$100
+Embassy Suites by Hilton Denver Tech Center North,Embassy Suites by Hilton,Denver,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,205,7,$59
+Essex House,Independent,Littleton,CO ,United States,Economy Class,Suburban,Budget,N,N,N,56,2,$43
+EVEN Hotels Denver Tech Center-Englewood,EVEN Hotels,Englewood,CO ,United States,Upscale Class,Suburban,Budget,N,N,N,93,4,$106
+Extended Stay America Denver - Aurora North,Extended Stay America,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,136,3,$43
+Extended Stay America Denver - Aurora South,Extended Stay America,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,139,2,$23
+Extended Stay America Denver - Park Meadows,Extended Stay America,Lone Tree,CO ,United States,Economy Class,Suburban,Budget,N,N,N,109,4,$28
+Extended Stay America Denver - Tech Center - Central,Extended Stay America,Greenwood Village,CO ,United States,Economy Class,Suburban,Budget,N,N,N,141,2,$31
+Extended Stay America Denver - Tech Center - South - Greenwood Village,Extended Stay America,Greenwood Village,CO ,United States,Economy Class,Suburban,Budget,N,N,N,100,3,$31
+Extended Stay America Denver - Tech Center South,Extended Stay America,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,72,3,$35
+Extended Stay America Denver - Tech Center South - Inverness,Extended Stay America,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,132,2,$47
+Extended Stay America Denver - Westminster,Extended Stay America,Westminster,CO ,United States,Economy Class,Suburban,Budget,N,N,N,103,3,$28
+Extended Stay America Denver Cherry Creek,Extended Stay America,Glendale,CO ,United States,Economy Class,Suburban,Budget,N,N,N,109,3,$36
+Extended Stay America Denver Lakewood South,Extended Stay America,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,120,3,$25
+Fairfield Inn & Suites Boulder Broomfield/Interlocken,Fairfield Inn,Broomfield,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,90,4,$136
+Fairfield Inn & Suites Denver Airport,Fairfield Inn,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,160,3,$141
+Fairfield Inn & Suites Denver Aurora Medical Center,Fairfield Inn,Aurora,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,83,3,$116
+Fairfield Inn & Suites Denver Aurora Parker,Fairfield Inn,Aurora,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,131,4,$156
+Fairfield Inn & Suites Denver Cherry Creek,Fairfield Inn,Denver,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,134,10,$201
+Fairfield Inn & Suites Denver Downtown,Fairfield Inn,Denver,CO ,United States,Upper Midscale Class,Urban,Luxury,N,N,N,87,4,$201
+Fairfield Inn & Suites Denver North/Westminster ,Fairfield Inn,Westminster,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,83,3,$119
+Fairfield Inn & Suites Denver Northeast Brighton,Fairfield Inn,Brighton,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,78,4,$132
+Fairfield Inn & Suites Denver Tech Center North,Fairfield Inn,Denver,CO ,United States,Upper Midscale Class,Suburban,Upscale,N,N,N,94,4,$112
+Fairfield Inn & Suites Denver Tech Center South,Fairfield Inn,Highlands Ranch,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,61,3,$116
+Fairfield Inn Denver West Federal Center,Fairfield Inn,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,128,4,$126
+Four U Motel,Independent,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,20,1,$30
+Gaylord Rockies Resort & Convention Center,Gaylord,Aurora,CO ,United States,Upper Upscale Class,Suburban,Luxury,Y,N,Y,1501,13,$167
+Golden Hours Motel,Independent,Lakewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,27,2,$133
+Grand Hyatt Denver,Grand Hyatt,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,Y,516,26,$439
+GreenTree Inn Denver Tech Center,GreenTree Inn,Centennial,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,61,3,$63
+Halcyon a hotel in Cherry Creek,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,154,7,$597
+Hampton by Hilton Inn & Suites Denver Downtown-Convention Center,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Urban,Budget,N,N,N,120,6,$107
+Hampton by Hilton Inn & Suites Denver Littleton,Hampton by Hilton,Littleton,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,89,4,$153
+Hampton by Hilton Inn & Suites Denver Tech Center,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,123,3,$116
+Hampton by Hilton Inn & Suites Denver-Cherry Creek,Hampton by Hilton,Glendale,CO ,United States,Upper Midscale Class,Suburban,Upscale,N,N,N,133,6,$191
+Hampton by Hilton Inn & Suites Denver-Downtown,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Urban,Luxury,N,N,N,151,6,$309
+Hampton by Hilton Inn & Suites Denver-Speer Boulevard,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,N,N,N,77,5,$141
+Hampton by Hilton Inn & Suites Denver/Airport-Gateway Park,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Airport,Budget,N,N,N,115,6,$93
+Hampton by Hilton Inn & Suites Denver/Highlands Ranch,Hampton by Hilton,Highlands Ranch,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,118,6,$189
+Hampton by Hilton Inn & Suites Denver/South-RidgeGate,Hampton by Hilton,Lone Tree,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,106,4,$98
+Hampton by Hilton Inn & Suites Parker,Hampton by Hilton,Parker,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,84,4,$134
+Hampton by Hilton Inn Denver Northeast-Brighton,Hampton by Hilton,Brighton,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,76,4,$73
+Hampton by Hilton Inn Denver-International Airport,Hampton by Hilton,Denver,CO ,United States,Upper Midscale Class,Airport,Upscale,N,N,N,122,5,$159
+Hampton by Hilton Inn Denver-Northwest/Westminster,Hampton by Hilton,Westminster,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,106,3,$92
+Hampton by Hilton Inn Denver-West/Golden,Hampton by Hilton,Golden,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,121,4,$83
+Hampton Inn & Suites Aurora South Denver,Hampton by Hilton,Aurora,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,112,5,$192
+Hampton Inn Castle Rock,Hampton by Hilton,Castle Rock,CO ,United States,Upper Midscale Class,Interstate,Midprice,N,N,N,72,4,$55
+Hampton Inn Denver Tech Center South,Hampton by Hilton,Centennial,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,100,4,$109
+Hampton Inn Denver West Federal Center,Hampton by Hilton,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,170,6,$180
+Hilltop Inn,Independent,Broomfield,CO ,United States,Upper Midscale Class,Suburban,Midprice,Y,N,N,15,2,$80
+Hilton Denver City Center,Hilton,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,613,20,$134
+Hilton Denver Inverness,Hilton,Englewood,CO ,United States,Upper Upscale Class,Resort,Luxury,Y,Y,Y,302,5,$282
+Hilton Garden Inn Arvada Denver,Hilton Garden Inn,Arvada,CO ,United States,Upscale Class,Suburban,Upscale,Y,N,N,139,5,$119
+Hilton Garden Inn Denver Airport,Hilton Garden Inn,Aurora,CO ,United States,Upscale Class,Airport,Upscale,Y,N,N,157,6,$196
+Hilton Garden Inn Denver Cherry Creek,Hilton Garden Inn,Denver,CO ,United States,Upscale Class,Suburban,Upscale,Y,N,N,210,8,$146
+Hilton Garden Inn Denver Downtown,Hilton Garden Inn,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,221,12,$342
+Hilton Garden Inn Denver Highlands Ranch,Hilton Garden Inn,Highlands Ranch,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,128,5,$156
+Hilton Garden Inn Denver South Park Meadows Area,Hilton Garden Inn,Englewood,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,157,6,$93
+Hilton Garden Inn Denver Tech Center,Hilton Garden Inn,Denver,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,180,7,$176
+Hilton Garden Inn Denver-Union Station,Hilton Garden Inn,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,233,11,$206
+Hilton Garden Inn Denver/Thornton,Hilton Garden Inn,Thornton,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,122,4,$63
+Holiday Inn & Denver Tech Center - Centennial,Holiday Inn,Centennial,CO ,United States,Upper Midscale Class,Suburban,Midprice,Y,N,N,99,4,$114
+Holiday Inn Denver East,Holiday Inn,Denver,CO ,United States,Upper Midscale Class,Urban,Budget,Y,N,N,299,11,$71
+Holiday Inn Denver Lakewood,Holiday Inn,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Economy,Y,N,N,190,6,$139
+Holiday Inn Denver Parker E470 Parker Road,Holiday Inn,Parker,CO ,United States,Upper Midscale Class,Suburban,Midprice,Y,N,N,101,4,$145
+Holiday Inn Express & Suites Castle Rock,Holiday Inn Express,Castle Rock,CO ,United States,Upper Midscale Class,Interstate,Midprice,N,N,N,84,4,$145
+Holiday Inn Express & Suites Denver - Aurora Medical Campus,Holiday Inn Express,Aurora,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,126,5,$177
+Holiday Inn Express & Suites Denver Airport,Holiday Inn Express,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,139,4,$176
+Holiday Inn Express & Suites Denver East Peoria Street,Holiday Inn Express,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,81,5,$153
+Holiday Inn Express & Suites Denver NE Brighton,Holiday Inn Express,Brighton,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,88,4,$164
+Holiday Inn Express & Suites Denver North Thornton,Holiday Inn Express,Thornton,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,85,4,$139
+Holiday Inn Express & Suites Denver Northwest Broomfield,Holiday Inn Express,Broomfield,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,136,4,$174
+Holiday Inn Express & Suites Denver Southwest Littleton,Holiday Inn Express,Littleton,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,76,3,$118
+Holiday Inn Express & Suites Golden Denver Area,Holiday Inn Express,Golden,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,100,4,$124
+Holiday Inn Express & Suites Wheat Ridge - Denver West,Holiday Inn Express,Wheat Ridge,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,103,3,$120
+Holiday Motel,Independent,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,30,2,$27
+Home2 Suites by Hilton Denver Downtown Convention Center,Home2 Suites by Hilton,Denver,CO ,United States,Upper Midscale Class,Urban,Midprice,N,N,N,206,16,$50
+Home2 Suites by Hilton Denver Highlands Ranch,Home2 Suites by Hilton,Highlands Ranch,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,115,4,$60
+Home2 Suites by Hilton Denver International Airport,Home2 Suites by Hilton,Denver,CO ,United States,Upper Midscale Class,Airport,Upscale,N,N,N,111,4,$73
+Home2 Suites by Hilton Denver Northfield,Home2 Suites by Hilton,Denver,CO ,United States,Upper Midscale Class,Urban,Midprice,N,N,N,117,4,$60
+Home2 Suites by Hilton Denver South Centennial Airport,Home2 Suites by Hilton,Englewood,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,90,4,$49
+Home2 Suites by Hilton Denver West Federal Center,Home2 Suites by Hilton,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,107,4,$60
+Homestead Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,22,1,$27
+HomeTowne Studios Denver Airport Aurora,HomeTowne Studios by Red Roof,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,133,3,$27
+HomeTowne Studios Denver Glendale Cherry Creek,HomeTowne Studios by Red Roof,Glendale,CO ,United States,Economy Class,Suburban,Budget,N,N,N,129,3,$30
+HomeTowne Studios Denver Lakewood West,HomeTowne Studios by Red Roof,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,147,3,$24
+HomeTowne Studios Denver Thornton,HomeTowne Studios by Red Roof,Thornton,CO ,United States,Economy Class,Suburban,Budget,N,N,N,133,3,$28
+Homewood Suites by Hilton Denver Airport Tower Road,Homewood Suites by Hilton,Denver,CO ,United States,Upscale Class,Airport,Midprice,N,N,N,90,4,$89
+Homewood Suites by Hilton Denver Downtown-Convention Center,Homewood Suites by Hilton,Denver,CO ,United States,Upscale Class,Urban,Luxury,N,N,N,182,6,$93
+Homewood Suites by Hilton Denver International Airport,Homewood Suites by Hilton,Denver,CO ,United States,Upscale Class,Airport,Upscale,N,N,N,117,3,$83
+Homewood Suites by Hilton Denver Littleton,Homewood Suites by Hilton,Littleton,CO ,United States,Upscale Class,Suburban,Upscale,N,N,N,84,4,$106
+Homewood Suites by Hilton Denver Tech Center,Homewood Suites by Hilton,Englewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,113,3,$56
+Homewood Suites by Hilton Denver West Lakewood,Homewood Suites by Hilton,Lakewood,CO ,United States,Upscale Class,Suburban,Upscale,N,N,N,110,4,$143
+Hotel Indigo Denver Downtown,Hotel Indigo,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,N,N,N,180,4,$205
+Hotel Teatro,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,110,9,$392
+Howard Johnson Denver West,Howard Johnson,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,Y,N,N,108,5,$88
+Hyatt House Boulder Broomfield,Hyatt House,Broomfield,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,123,4,$66
+Hyatt House Denver Airport,Hyatt House,Denver,CO ,United States,Upscale Class,Airport,Upscale,Y,N,N,123,4,$46
+Hyatt House Denver Downtown,Hyatt House,Denver,CO ,United States,Upscale Class,Urban,Luxury,N,N,N,113,22,$72
+Hyatt House Denver Lakewood Belmar,Hyatt House,Lakewood,CO ,United States,Upscale Class,Suburban,Upscale,N,N,N,135,6,$106
+Hyatt House Denver Tech Center,Hyatt House,Englewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,135,3,$63
+Hyatt Place Denver Airport,Hyatt Place,Aurora,CO ,United States,Upscale Class,Airport,Midprice,N,N,N,126,6,$61
+Hyatt Place Denver Cherry Creek,Hyatt Place,Glendale,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,199,11,$159
+Hyatt Place Denver Downtown,Hyatt Place,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,248,22,$61
+Hyatt Place Denver Pena Station,Hyatt Place,Denver,CO ,United States,Upscale Class,Airport,Economy,N,N,N,226,7,$137
+Hyatt Place Denver South Park Meadows,Hyatt Place,Lone Tree,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,127,6,$53
+Hyatt Place Denver Tech Center,Hyatt Place,Englewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,126,6,$56
+Hyatt Place Denver Westminster,Hyatt Place,Westminster,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,137,6,$107
+Hyatt Regency Aurora Denver Conference Center,Hyatt Regency,Aurora,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,249,10,$319
+Hyatt Regency Denver at Colorado Convention Center,Hyatt Regency,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,1100,37,"$1,176"
+Hyatt Regency Tech Center,Hyatt Regency,Denver,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,451,12,$631
+Interstate Best Value Inn,Independent,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,N,N,N,100,2,$45
+InTown Suites Denver East Short Term Housing,InTown Suites,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,138,3,$17
+InTown Suites Denver Southeast Aurora,InTown Suites,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,148,3,$27
+InTown Suites Sheridan,InTown Suites,Sheridan,CO ,United States,Economy Class,Suburban,Budget,N,N,N,136,3,$19
+JW Marriott Denver Cherry Creek,JW Marriott,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,Y,199,11,$559
+Kimpton Hotel Born,Kimpton,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,200,12,$449
+Kimpton Hotel Monaco Denver,Kimpton,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,Y,189,7,$259
+Knights Inn Aurora,Knights Inn,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,143,2,$80
+La Quinta Inns & Suites Castle Rock,La Quinta Inns & Suites,Castle Rock,CO ,United States,Upper Midscale Class,Interstate,Economy,N,N,N,63,3,$102
+La Quinta Inns & Suites Denver Aurora Medical Center,La Quinta Inns & Suites,Aurora,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,126,4,$149
+La Quinta Inns & Suites Denver Central,La Quinta Inns & Suites,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,N,N,N,107,3,$139
+La Quinta Inns & Suites Denver Cherry Creek,La Quinta Inns & Suites,Denver,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,130,2,$111
+La Quinta Inns & Suites Denver Englewood Tech Center,La Quinta Inns & Suites,Greenwood Village,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,134,5,$50
+La Quinta Inns & Suites Denver Gateway Park,La Quinta Inns & Suites,Denver,CO ,United States,Upper Midscale Class,Airport,Economy,N,N,N,81,4,$122
+La Quinta Inns & Suites Denver Golden,La Quinta Inns & Suites,Golden,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,129,3,$136
+La Quinta Inns & Suites Denver International Airport,La Quinta Inns & Suites,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,168,5,$146
+La Quinta Inns & Suites Denver Northglenn,La Quinta Inns & Suites,Westminster,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,131,3,$112
+La Quinta Inns & Suites Denver Southwest Lakewood,La Quinta Inns & Suites,Lakewood,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,128,5,$126
+La Quinta Inns & Suites Denver Tech Center,La Quinta Inns & Suites,Greenwood Village,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,148,4,$126
+La Quinta Inns & Suites Denver Westminster,La Quinta Inns & Suites,Westminster,CO ,United States,Upper Midscale Class,Suburban,Budget,N,N,N,130,3,$109
+La Quinta Inns & Suites Henderson Northeast Denver,La Quinta Inns & Suites,Henderson,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,51,3,$126
+Lakeside Inn,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,30,2,$60
+Lakewood Lodge,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,21,1,$43
+Lazy 8 Motel,Independent,Byers,CO ,United States,Economy Class,Small Metro/Town,Budget,N,N,N,14,1,$53
+Lazy C Motor Lodge,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,20,2,$30
+Le Meridien Denver Downtown,Le Meridien,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,N,N,N,272,20,$241
+Lone Tree Golf Club & Hotel,Independent,Littleton,CO ,United States,Upscale Class,Suburban,Midprice,Y,N,N,15,5,$69
+Lucky U Motel,Independent,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,40,2,$30
+"Magnolia Hotel Denver, A Tribute Portfolio Hotel",Tribute Portfolio,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,N,N,N,297,12,$489
+MainStay Suites Denver International Airport,MainStay Suites,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,56,4,$40
+MainStay Suites Denver Tech Center,MainStay Suites,Centennial,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,130,3,$36
+MainStay Suites Near Denver Downtown,MainStay Suites,Denver,CO ,United States,Midscale Class,Urban,Midprice,N,N,N,40,4,$60
+Mallory Manor Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,28,2,$27
+Marriott Denver Airport @ Gateway Park,Marriott,Aurora,CO ,United States,Upper Upscale Class,Airport,Upscale,Y,N,N,238,6,$321
+Marriott Denver South at Park Meadows,Marriott,Lone Tree,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,279,6,$332
+Marriott Denver Tech Center,Marriott,Denver,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,605,11,$324
+Marriott Denver West,Marriott,Golden,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,305,6,$214
+Marriott Denver Westminster,Marriott,Westminster,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,215,6,$296
+Mesa Motor Inn,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,47,1,$34
+Microtel Inn & Suites by Wyndham Denver,Microtel Inn & Suites by Wyndham,Denver,CO ,United States,Economy Class,Airport,Economy,N,N,N,100,3,$73
+Mint House Downtown Denver,Mint House,Denver,CO ,United States,Upper Upscale Class,Urban,Economy,N,N,N,20,2,$53
+Motel 6 Aurora - East,Motel 6,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,122,3,$59
+Motel 6 Denver - Airport,Motel 6,Denver,CO ,United States,Economy Class,Airport,Budget,N,N,N,139,2,$59
+Motel 6 Denver - Lakewood,Motel 6,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,120,2,$53
+Motel 6 Denver - Thornton,Motel 6,Thornton,CO ,United States,Economy Class,Suburban,Budget,N,N,N,120,2,$56
+Motel 6 Denver Central - Federal Boulevard,Motel 6,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,191,3,$59
+Motel 6 Denver South - South Tech Center,Motel 6,Greenwood Village,CO ,United States,Economy Class,Suburban,Budget,N,N,N,129,5,$56
+Motel 6 Denver West Wheat Ridge - North,Motel 6,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,N,N,N,94,2,$59
+Mountain View Inn,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,34,2,$37
+MOXY Denver Cherry Creek,MOXY,Denver,CO ,United States,Upper Midscale Class,Urban,Luxury,N,N,N,170,8,$138
+NATIV Hotel,Independent,Denver,CO ,United States,Upper Midscale Class,Urban,Economy,N,N,N,19,3,$229
+Newhouse Hotel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,40,3,$30
+Niagara House Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,33,2,$46
+Omni Interlocken Resort,Omni,Broomfield,CO ,United States,Upper Upscale Class,Resort,Upscale,Y,N,Y,390,12,$312
+OYO Hotel Castle Rock Downtown,OYO,Castle Rock,CO ,United States,Economy Class,Interstate,Budget,N,N,N,61,3,$59
+Panorama Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,25,2,$43
+Quality Inn & Suites Denver Airport Gateway Park,Quality Inn,Aurora,CO ,United States,Midscale Class,Suburban,Midprice,N,N,N,157,4,$146
+Quality Inn & Suites Denver International Airport,Quality Inn,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,122,4,$141
+Quality Inn & Suites Denver North Westminster,Quality Inn,Westminster,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,77,3,$46
+Quality Inn & Suites Denver South Park Meadows Area,Quality Inn,Englewood,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,90,4,$146
+Quality Inn & Suites Golden Denver West,Quality Inn,Lakewood,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,63,3,$186
+Quality Inn & Suites Lakewood ,Quality Inn,Lakewood,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,77,3,$112
+Quality Inn & Suites Westminster Broomfield,Quality Inn,Westminster,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,59,3,$122
+Quality Inn Aurora,Quality Inn,Aurora,CO ,United States,Midscale Class,Suburban,Budget,Y,N,N,122,2,$116
+Quality Inn Brighton,Quality Inn,Brighton,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,52,3,$116
+Quality Inn Denver Downtown,Quality Inn,Denver,CO ,United States,Midscale Class,Urban,Economy,Y,N,N,130,3,$59
+Quality Inn Denver Westminster,Quality Inn,Westminster,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,66,3,$163
+Radisson Hotel Denver - Aurora,Radisson,Aurora,CO ,United States,Upscale Class,Suburban,Economy,Y,N,N,287,12,$142
+Radisson Hotel Denver Central,Radisson,Denver,CO ,United States,Upscale Class,Urban,Economy,Y,N,N,220,4,$73
+Ramada Denver Downtown ,Ramada,Denver,CO ,United States,Midscale Class,Urban,Budget,Y,N,N,152,3,$126
+Ramada Denver International Airport,Ramada,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,83,3,$60
+Red Rock Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,19,1,$33
+Renaissance Boulder Flatiron Hotel,Renaissance,Broomfield,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,232,10,$90
+Renaissance Denver Central Park Hotel,Renaissance,Denver,CO ,United States,Upper Upscale Class,Urban,Upscale,Y,Y,N,400,12,$189
+Renaissance Denver Downtown City Center Hotel,Renaissance,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,230,8,$246
+Residence Inn Boulder Broomfield Interlocken,Residence Inn,Broomfield,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,122,4,$43
+Residence Inn Denver Airport At Gateway Park,Residence Inn,Aurora,CO ,United States,Upscale Class,Suburban,Upscale,Y,N,N,124,4,$93
+Residence Inn Denver Airport Convention Center,Residence Inn,Denver,CO ,United States,Upscale Class,Airport,Upscale,N,N,N,100,4,$103
+Residence Inn Denver Cherry Creek,Residence Inn,Denver,CO ,United States,Upscale Class,Suburban,Upscale,N,N,N,135,4,$80
+Residence Inn Denver City Center,Residence Inn,Denver,CO ,United States,Upscale Class,Urban,Luxury,N,N,N,229,14,$126
+Residence Inn Denver Downtown,Residence Inn,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,160,2,$76
+Residence Inn Denver Golden/Red Rocks,Residence Inn,Golden,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,88,4,$60
+Residence Inn Denver Highlands Ranch,Residence Inn,Highlands Ranch,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,117,4,$76
+Residence Inn Denver North Westminster,Residence Inn,Westminster,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,94,4,$70
+Residence Inn Denver South Park Meadows Mall,Residence Inn,Englewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,112,4,$70
+Residence Inn Denver Southwest Lakewood,Residence Inn,Lakewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,102,3,$93
+Residence Inn Denver Southwest Littleton,Residence Inn,Littleton,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,116,4,$53
+Residence Inn Denver Stapleton,Residence Inn,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,112,4,$76
+Residence Inn Denver Tech Center,Residence Inn,Greenwood Village,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,128,2,$56
+Ritz-Carlton Denver,Ritz-Carlton,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,Y,202,14,"$1,266"
+Riviera Motel,Independent,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,46,2,$31
+Rodeway Inn Brighton,Rodeway Inn,Brighton,CO ,United States,Economy Class,Suburban,Budget,N,N,N,39,2,$53
+Rodeway Inn Denver Downtown,Rodeway Inn,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,44,3,$59
+Sand & Sage Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,20,1,$30
+Savannah Suites Arvada,Independent,Arvada,CO ,United States,Economy Class,Suburban,Budget,N,N,N,116,3,$24
+Shepherd's Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,35,2,$33
+Sheraton Hotel Denver,Sheraton Hotel,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,1231,22,$292
+Sheraton Hotel Denver West,Sheraton Hotel,Lakewood,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,Y,N,242,12,$269
+Silver Spur Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,10,2,$33
+Sleep Inn & Suites Denver International Airport,Sleep Inn,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,64,4,$109
+Sleep Inn Denver Tech Center,Sleep Inn,Greenwood Village,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,115,3,$66
+Sonesta Denver Downtown,Sonesta Hotel,Denver,CO ,United States,Upscale Class,Urban,Midprice,Y,N,N,380,21,$186
+Sonesta ES Suites Denver South-Park Meadows,Sonesta ES Suites,Lone Tree,CO ,United States,Upper Midscale Class,Suburban,Economy,Y,N,N,115,3,$50
+Sonesta Simply Suites Denver Federal Center,Sonesta Simply Suites,Golden,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,122,3,$40
+SpringHill Suites Denver Airport,SpringHill Suites,Denver,CO ,United States,Upscale Class,Airport,Midprice,N,N,N,125,4,$61
+SpringHill Suites Denver at Anschutz Medical Campus,SpringHill Suites,Aurora,CO ,United States,Upscale Class,Suburban,Upscale,N,N,N,153,4,$83
+SpringHill Suites Denver Downtown,SpringHill Suites,Denver,CO ,United States,Upscale Class,Urban,Luxury,Y,N,N,150,6,$86
+SpringHill Suites Denver North /Westminster,SpringHill Suites,Westminster,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,164,6,$76
+SpringHill Suites Denver Parker,SpringHill Suites,Parker,CO ,United States,Upscale Class,Suburban,Budget,N,N,N,108,4,$36
+SpringHill Suites Denver Tech Center,SpringHill Suites,Greenwood Village,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,88,3,$66
+SpringHill Suites Denver West Golden,SpringHill Suites,Lakewood,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,127,4,$53
+Star Motel,Independent,Denver,CO ,United States,Economy Class,Airport,Budget,N,N,N,130,2,$65
+Stay Inn,Independent,Denver,CO ,United States,Economy Class,Airport,Budget,N,N,N,95,4,$66
+Staybridge Suites Denver Downtown,Staybridge Suites,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,111,9,$56
+Staybridge Suites Denver International Airport,Staybridge Suites,Denver,CO ,United States,Upscale Class,Airport,Midprice,N,N,N,147,6,$83
+Staybridge Suites Denver North - Thornton,Staybridge Suites,Thornton,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,111,4,$63
+Staybridge Suites Denver South Highlands Ranch,Staybridge Suites,Littleton,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,105,4,$66
+Staybridge Suites Denver Stapleton,Staybridge Suites,Denver,CO ,United States,Upscale Class,Urban,Upscale,N,N,N,102,4,$65
+Staybridge Suites Denver Tech Center,Staybridge Suites,Centennial,CO ,United States,Upscale Class,Suburban,Economy,N,N,N,128,3,$50
+Staybridge Suites Denver-Cherry Creek,Staybridge Suites,Glendale,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,121,4,$66
+Suburban Extended Stay Hotel Westminster,Suburban Extended Stay,Westminster,CO ,United States,Economy Class,Suburban,Budget,N,N,N,128,4,$36
+Super 8 Denver Central,Super 8,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,106,2,$60
+Super 8 Denver Stapleton,Super 8,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,115,2,$63
+Super 8 Henderson North East Denver  ,Super 8,Henderson,CO ,United States,Economy Class,Suburban,Budget,N,N,N,60,3,$97
+Super 8 Parker/SE Denver Area,Super 8,Parker,CO ,United States,Economy Class,Suburban,Economy,N,N,N,72,3,$112
+Super 8 Westminster Denver North,Super 8,Westminster,CO ,United States,Economy Class,Suburban,Budget,N,N,N,116,3,$99
+Super 8 Wheat Ridge/Denver West,Super 8,Wheat Ridge,CO ,United States,Economy Class,Suburban,Budget,Y,N,N,121,2,$59
+SureStay Plus Thornton Denver North,SureStay Plus,Thornton,CO ,United States,Economy Class,Suburban,Budget,N,N,N,99,4,$109
+Sylo Denver International Airport Inn,Independent,Aurora,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,95,3,$154
+Table Mountain Inn,Independent,Golden,CO ,United States,Upper Upscale Class,Suburban,Luxury,Y,N,N,74,4,$187
+The Crawford Hotel,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,112,4,$502
+The Laszlo,Independent,Parker,CO ,United States,Upper Upscale Class,Suburban,Luxury,Y,N,N,51,4,$143
+The Maven,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,172,8,$292
+The Oxford Hotel,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,Y,80,5,$252
+The Ramble Hotel,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,50,3,$507
+The Source Hotel,Independent,Denver,CO ,United States,Luxury Class,Urban,Luxury,Y,N,N,100,8,$289
+Town & Country Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,28,2,$45
+TownePlace Suites Boulder Broomfield Interlocken,TownePlace Suites,Broomfield,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,150,4,$73
+TownePlace Suites Denver Airport @ Gateway Park,TownePlace Suites,Denver,CO ,United States,Upper Midscale Class,Airport,Midprice,N,N,N,99,4,$66
+TownePlace Suites Denver Downtown,TownePlace Suites,Denver,CO ,United States,Upper Midscale Class,Urban,Upscale,N,N,N,122,3,$90
+TownePlace Suites Denver South Lone Tree,TownePlace Suites,Lone Tree,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,121,4,$96
+TownePlace Suites Denver Southeast,TownePlace Suites,Denver,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,112,3,$63
+TownePlace Suites Denver Southwest,TownePlace Suites,Littleton,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,99,3,$63
+TownePlace Suites Denver Tech Center,TownePlace Suites,Englewood,CO ,United States,Upper Midscale Class,Suburban,Economy,N,N,N,94,3,$66
+TownePlace Suites Denver West Federal Center,TownePlace Suites,Golden,CO ,United States,Upper Midscale Class,Suburban,Midprice,N,N,N,106,3,$66
+Trail's End Motel,Independent,Lakewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,40,2,$47
+Tru by Hilton Denver Airport Tower Road,Tru by Hilton,Denver,CO ,United States,Midscale Class,Airport,Midprice,N,N,N,96,4,$60
+Tru by Hilton Denver Downtown Convention Center,Tru by Hilton,Denver,CO ,United States,Midscale Class,Urban,Economy,N,N,N,176,16,$53
+Tru by Hilton Denver South Park Meadows,Tru by Hilton,Lone Tree,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,114,4,$104
+UpTown Suites Centennial,Uptown Suites,Centennial,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,131,4,$43
+Uptown Suites Denver Westminster,Uptown Suites,Westminster,CO ,United States,Midscale Class,Suburban,Budget,N,N,N,131,4,$73
+Valli Hi Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,53,2,$39
+Venture Inn,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,51,2,$39
+Warwick Denver Hotel,Warwick Hotel,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,216,14,$202
+WaterWalk Denver,Independent,Centennial,CO ,United States,Upscale Class,Suburban,Midprice,N,N,N,72,4,$63
+Western Hill Motel,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,N,N,N,23,2,$47
+Western Motor Inn,Independent,Denver,CO ,United States,Economy Class,Urban,Budget,Y,N,N,105,2,$45
+Westin Denver Downtown,Westin,Denver,CO ,United States,Upper Upscale Class,Urban,Luxury,Y,N,N,430,19,$566
+Westin Denver International Airport,Westin,Denver,CO ,United States,Upper Upscale Class,Airport,Luxury,Y,N,N,519,14,$298
+Westin Westminster,Westin,Westminster,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,370,14,$323
+Westway Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,23,2,$33
+White Rock Motel & RV Park,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,N,N,N,33,1,$43
+White Swan Motel,Independent,Denver,CO ,United States,Economy Class,Suburban,Budget,Y,N,N,20,1,$32
+Wingate by Wyndham Denver Airport,Wingate by Wyndham,Denver,CO ,United States,Midscale Class,Airport,Economy,N,N,N,123,4,$119
+Wingate by Wyndham Greenwood Village Denver Tech ,Wingate by Wyndham,Greenwood Village,CO ,United States,Midscale Class,Suburban,Economy,N,N,N,86,3,$109
+Wolf's Motor Inn,Independent,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,33,2,$33
+WoodSpring Suites Aurora Denver Airport,WoodSpring Suites,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,122,4,$22
+WoodSpring Suites Denver Aurora,WoodSpring Suites,Aurora,CO ,United States,Economy Class,Suburban,Budget,N,N,N,121,4,$22
+WoodSpring Suites Denver Centennial,WoodSpring Suites,Centennial,CO ,United States,Economy Class,Suburban,Budget,N,N,N,122,4,$24
+Woolley's Classic Suites Denver International Airport,Independent,Aurora,CO ,United States,Upper Upscale Class,Suburban,Upscale,Y,N,N,189,4,$66
+Wright Motel,Independent,Englewood,CO ,United States,Economy Class,Suburban,Budget,N,N,N,34,2,$57
+Wyndham Origin Hotel Red Rocks,Wyndham,Golden,CO ,United States,Upscale Class,Suburban,Upscale,Y,N,N,124,4,$209
